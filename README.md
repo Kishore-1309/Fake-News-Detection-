@@ -6,8 +6,8 @@ This project aims to tackle the growing problem of fake news by leveraging machi
 
 1. **Collecting Sample Data**: Gather sample fake and true data related to fake news analysis from well-done datasets.
 2. **Loading and Analyzing Dataset**: Load the dataset and perform exploratory data analysis to understand its structure and characteristics.
-3. **Splitting Dataset**: Split the dataset into training and testing sets to train and evaluate machine learning models.
-4. **Preprocessing**: Preprocess the dataset by cleaning, removing stopwords, and lemmatizing text data to prepare it for modeling.
+3. **Preprocessing**: Preprocess the dataset by cleaning, removing stopwords, and lemmatizing text data to prepare it for modeling.
+4. **Splitting Dataset**: Split the dataset into training and testing sets to train and evaluate machine learning models.
 5. **Choosing a Learning Model**: Select a machine learning model, methodology, or schema for training the dataset.
 6. **Model Fitting and Prediction**: Fit the selected model with proper parameters and predict the likelihood of news articles being fake or true.
 7. **Model Accuracy Score**: Determine the accuracy score of the trained model to assess its performance.
